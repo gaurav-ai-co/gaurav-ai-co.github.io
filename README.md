@@ -1,4 +1,4 @@
-## Run Locally
+## Run Locally in your PC
 
 **Prerequisites:**  Node.js
 
